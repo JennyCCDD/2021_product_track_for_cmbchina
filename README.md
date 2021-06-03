@@ -74,7 +74,8 @@
 
    开放银行：[国际领先金融科技公司CEO畅谈开放银行的下一波浪潮 – McKinsey Greater China](https://www.mckinsey.com.cn/国际领先金融科技公司ceo畅谈开放银行的下一波浪/)
 
-     				[bcg-x-pingan-china-open-banking-white-paper-2021-bcg.pdf](https://web-assets.bcg.com/0b/72/16179e9c4077bdc72636d8423572/bcg-x-pingan-china-open-banking-white-paper-2021-bcg.pdf)
+     		   
+            [bcg-x-pingan-china-open-banking-white-paper-2021-bcg.pdf](https://web-assets.bcg.com/0b/72/16179e9c4077bdc72636d8423572/bcg-x-pingan-china-open-banking-white-paper-2021-bcg.pdf)
 
    资管科技：[麦肯锡中国银行业CEO季刊 | 定位重塑，打造现代化资管科技治理体系和系统平台 – McKinsey Greater China](https://www.mckinsey.com.cn/麦肯锡中国银行业ceo季刊-定位重塑，打造现代化资/)
 
