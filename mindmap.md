@@ -58,7 +58,7 @@
 
 分手后，在前任App上写一些缅怀感情的言语，前任多半不会回应。他的沉默只会加重你的心理创伤，重复体验被忽视、被拒绝、被抛弃的失望和痛苦。
 
-![img](file:///C:/Users/1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+
 
 ### 1.2.5、×点评前任让现任看到的目的：破坏现任的感情，报复目的，防止回溯性嫉妒
 
@@ -465,22 +465,11 @@ AI智能审核加人工审核
 ## 2.2、后疫情时代心理健康赛道
 
 [心理健康：后疫情时代的蓝海市场_详细解读_最新资讯_热点事件_36氪 (36kr.com)](https://36kr.com/p/774833590222089)
-
- 
-
-![img](file:///C:/Users/1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
-
  
 
 ## 2.3、C2C精神类服务电商
 
 ### 2.3.1、松果倾诉
-
-![img](file:///C:/Users/1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
-
-![img](file:///C:/Users/1/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)
-
-![img](file:///C:/Users/1/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg) ![img](file:///C:/Users/1/AppData/Local/Temp/msohtmlclip1/01/clip_image014.jpg) ![img](file:///C:/Users/1/AppData/Local/Temp/msohtmlclip1/01/clip_image016.jpg) ![img](file:///C:/Users/1/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg) ![img](file:///C:/Users/1/AppData/Local/Temp/msohtmlclip1/01/clip_image020.jpg) ![img](file:///C:/Users/1/AppData/Local/Temp/msohtmlclip1/01/clip_image022.jpg) ![img](file:///C:/Users/1/AppData/Local/Temp/msohtmlclip1/01/clip_image024.jpg) ![img](file:///C:/Users/1/AppData/Local/Temp/msohtmlclip1/01/clip_image026.jpg) ![img](file:///C:/Users/1/AppData/Local/Temp/msohtmlclip1/01/clip_image028.jpg) ![img](file:///C:/Users/1/AppData/Local/Temp/msohtmlclip1/01/clip_image030.jpg) ![img](file:///C:/Users/1/AppData/Local/Temp/msohtmlclip1/01/clip_image032.jpg) ![img](file:///C:/Users/1/AppData/Local/Temp/msohtmlclip1/01/clip_image034.jpg) ![img](file:///C:/Users/1/AppData/Local/Temp/msohtmlclip1/01/clip_image036.jpg)
 
 [【艾媒咨询】艾媒咨询2017上半年中国精神类服务电商市场研究报告 (fxbaogao.com)](https://www.fxbaogao.com/pdf?id=149579&query={"keywords"%3A"情感咨询"}&index=0&pid=)
 
