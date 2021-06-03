@@ -4,9 +4,7 @@
 
 我最终成绩为37名。证据在此：
 
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/%E4%BA%A7%E5%93%81%E6%A6%9C%E5%8D%95%E6%88%AA%E5%9B%BE.png)
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/%E6%8B%9B%E5%95%86%E9%93%B6%E8%A1%8Cfintech%E7%AE%A1%E5%9F%B9%E8%AF%81%E4%B9%A6.jpg)
+<img src="https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/%E6%8B%9B%E5%95%86%E9%93%B6%E8%A1%8Cfintech%E7%AE%A1%E5%9F%B9%E8%AF%81%E4%B9%A6.jpg" style="zoom:25%;" />
 
 选题为题目一：设计一款“点评前任“的脑洞型产品 收起题目详情
 某辩论语言类的综艺节目中有一道辩题，“本节目要推出一款前任点评App，你支持吗？”，正方提出“这个App像一个树洞，为我们提供了评价前任和分享经历的场所”、“我们需要的是一帮虽然陌生但有着共同经历的人，我们都被彼此认同的伤透了心，但是我们在一起彼此安慰，紧紧拥抱，互相取暖”，反方提出“如果我们的感情最终走向末路，那就不用评论，给彼此最后的保护”、“我不相信人在点评的时候会先选择善良的点评，如果点评权力到了坏的人手上，它会变成什么样呢”。
@@ -21,8 +19,6 @@
 3)   形成完整的报告，限20页以内的PPT（格式须转PDF形式提交）。
 
 下面结合我当时准备面试的文档，以自问自答的方式展开叙述。
-
-[toc] 
 
 ## 我为什么选这个题？
 
@@ -40,53 +36,7 @@
 
 [5]	画产品原型，设计logo。这一步放在最后。这个时候距离比赛结束只有不到10小时的时间了。因为是提交PDF版本我就偷懒没有做高保真原型加动画和交互的那种，直接图片剪裁拼接处理提升处理速度和效率，有了[3]之后后面一切都是水到渠成的事情了。
 
-## 48小时内，我的成品如何？
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%870.PNG)
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%871.PNG)
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%872.PNG)
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%873.PNG)
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%874.PNG)
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%875.PNG)
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%876.PNG)
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%877.PNG)
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%878.PNG)
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%879.PNG)
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%8710.PNG)
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%8711.PNG)
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%8712.PNG)
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%8713.PNG)
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%8714.PNG)
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%8715.PNG)
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%8716.PNG)
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%8717.PNG)
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%8718.PNG)
-
-![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%8719.PNG)
-
-## 面试问了我哪些问题？
-
-
-
-### 产品赛道面试经验总结
+## 产品赛道面试问了我哪些问题？
 
 1. 你在校期间考了那么多证书，是如何进行时间管理的？
 
@@ -129,18 +79,48 @@
    资管科技：[麦肯锡中国银行业CEO季刊 | 定位重塑，打造现代化资管科技治理体系和系统平台 – McKinsey Greater China](https://www.mckinsey.com.cn/麦肯锡中国银行业ceo季刊-定位重塑，打造现代化资/)
 
    5.2 训练营的安排？
+  
+## 48小时内，我的成品如何？
 
- 
+![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%870.PNG)
 
-### 数据赛道面试经验总结
+![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%871.PNG)
 
-1. 你通过了哪几门CPA？
+![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%872.PNG)
 
-2. 你有那么多券商的实习，那相对于券商基金还有银行，为什么选择银行？
+![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%873.PNG)
 
-3. 说说一个你做过的数据项目？你觉得challenge的点在哪里？
+![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%874.PNG)
 
-4. 哪里用到了算法和机器学习？如何看待算法？
+![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%875.PNG)
 
-5. 你的职业规划是什么？
+![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%876.PNG)
+
+![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%877.PNG)
+
+![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%878.PNG)
+
+![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%879.PNG)
+
+![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%8710.PNG)
+
+![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%8711.PNG)
+
+![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%8712.PNG)
+
+![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%8713.PNG)
+
+![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%8714.PNG)
+
+![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%8715.PNG)
+
+![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%8716.PNG)
+
+![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%8717.PNG)
+
+![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%8718.PNG)
+
+![](https://github.com/JennyCCDD/2021_product_track_for_cmbchina/blob/main/final_PPT/%E5%B9%BB%E7%81%AF%E7%89%8719.PNG)
+
+
 
